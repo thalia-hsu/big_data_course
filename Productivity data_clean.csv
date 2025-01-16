@@ -1,0 +1,419 @@
+﻿ref_area.label,time,obs_value
+Australia,2025,117839.55
+Australia,2024,116161.1
+Australia,2023,115547.83
+Australia,2022,114906.73
+Australia,2021,114782.72
+Australia,2020,116676.94
+Australia,2019,115188.66
+Australia,2018,115189.54
+Australia,2017,114976.83
+Australia,2016,114955
+Australia,2015,113851.11
+Austria,2025,94439.7
+Austria,2024,92940.76
+Austria,2023,92862.93
+Austria,2022,94015.77
+Austria,2021,92501.02
+Austria,2020,88434.32
+Austria,2019,93712.58
+Austria,2018,93122.98
+Austria,2017,92336.79
+Austria,2016,91314.83
+Austria,2015,90895.08
+Belgium,2025,105559.02
+Belgium,2024,104672.97
+Belgium,2023,103904.96
+Belgium,2022,103134.53
+Belgium,2021,102637.37
+Belgium,2020,96855.52
+Belgium,2019,101656.76
+Belgium,2018,101075.73
+Belgium,2017,101644.34
+Belgium,2016,101557.86
+Belgium,2015,101139.8
+Canada,2025,89277.1
+Canada,2024,87757.28
+Canada,2023,86654.58
+Canada,2022,86915.98
+Canada,2021,86841.83
+Canada,2020,86643.73
+Canada,2019,86114.44
+Canada,2018,86187.9
+Canada,2017,85300.78
+Canada,2016,84626.04
+Canada,2015,84273.15
+Chile,2025,31652.4
+Chile,2024,31233.65
+Chile,2023,30763.49
+Chile,2022,31451.28
+Chile,2021,32865.13
+Chile,2020,30959.67
+Chile,2019,28736.16
+Chile,2018,29103.39
+Chile,2017,28609.62
+Chile,2016,28978.72
+Chile,2015,28856.46
+Colombia,2025,15111.42
+Colombia,2024,14957.83
+Colombia,2023,14897.92
+Colombia,2022,15347.72
+Colombia,2021,14812.63
+Colombia,2020,14117.01
+Colombia,2019,14329.27
+Colombia,2018,13897.37
+Colombia,2017,13708.28
+Colombia,2016,13723.14
+Colombia,2015,13504.73
+Costa Rica,2025,35858.55
+Costa Rica,2024,35000.96
+Costa Rica,2023,34069.89
+Costa Rica,2022,31311.74
+Costa Rica,2021,31470.69
+Costa Rica,2020,30487.53
+Costa Rica,2019,28485.85
+Costa Rica,2018,28515.78
+Costa Rica,2017,28857.96
+Costa Rica,2016,28283.8
+Costa Rica,2015,26287.99
+Czechia,2025,42519.39
+Czechia,2024,41119.04
+Czechia,2023,40406.64
+Czechia,2022,41329.05
+Czechia,2021,41316.71
+Czechia,2020,39684.42
+Czechia,2019,41245.62
+Czechia,2018,39916.49
+Czechia,2017,39075.33
+Czechia,2016,37681.14
+Czechia,2015,37405.28
+Denmark,2025,122810.05
+Denmark,2024,121365.71
+Denmark,2023,119186.68
+Denmark,2022,117057.26
+Denmark,2021,118597.51
+Denmark,2020,113429.16
+Denmark,2019,115400.99
+Denmark,2018,115410.91
+Denmark,2017,114878.19
+Denmark,2016,112927.17
+Denmark,2015,111357.62
+Estonia,2025,40894.09
+Estonia,2024,39864.73
+Estonia,2023,39395.43
+Estonia,2022,41224.44
+Estonia,2021,43395.01
+Estonia,2020,40987.4
+Estonia,2019,40335.11
+Estonia,2018,39041.43
+Estonia,2017,38018.09
+Estonia,2016,36692.16
+Estonia,2015,35837.64
+Finland,2025,97199.9
+Finland,2024,96598.14
+Finland,2023,96189.43
+Finland,2022,97517.83
+Finland,2021,98891.85
+Finland,2020,98257.95
+Finland,2019,99311.25
+Finland,2018,98940.59
+Finland,2017,100571.26
+Finland,2016,98186.94
+Finland,2015,96089.39
+France,2025,93040.92
+France,2024,92138.76
+France,2023,91254.86
+France,2022,90412.52
+France,2021,89559.73
+France,2020,86669.02
+France,2019,93448.76
+France,2018,92242.98
+France,2017,91516.54
+France,2016,90338.41
+France,2015,89715.59
+Germany,2025,85906.81
+Germany,2024,84297.3
+Germany,2023,83686.21
+Germany,2022,84670.39
+Germany,2021,85021.57
+Germany,2020,82522.28
+Germany,2019,83991.19
+Germany,2018,83994.73
+Germany,2017,83961.48
+Germany,2016,82600.24
+Germany,2015,82054.3
+Greece,2025,55834.72
+Greece,2024,54552.99
+Greece,2023,52895.19
+Greece,2022,51957.41
+Greece,2021,51291.96
+Greece,2020,47830.47
+Greece,2019,52614.41
+Greece,2018,53049.11
+Greece,2017,53348.48
+Greece,2016,53989.48
+Greece,2015,55055
+Hungary,2025,34157.92
+Hungary,2024,33083.36
+Hungary,2023,32472.22
+Hungary,2022,32976.7
+Hungary,2021,31980.71
+Hungary,2020,30170.2
+Hungary,2019,31241.96
+Hungary,2018,29954.53
+Hungary,2017,28785.2
+Hungary,2016,28065.47
+Hungary,2015,28407.1
+Iceland,2025,100603.91
+Iceland,2024,99805.66
+Iceland,2023,101392.43
+Iceland,2022,99397.09
+Iceland,2021,96963.4
+Iceland,2020,93179.07
+Iceland,2019,97141.19
+Iceland,2018,96681.44
+Iceland,2017,94022.92
+Iceland,2016,92355.6
+Iceland,2015,90221.85
+Ireland,2025,176146.2
+Ireland,2024,175039.12
+Ireland,2023,178342.26
+Ireland,2022,184412.4
+Ireland,2021,189790.23
+Ireland,2020,172548.92
+Ireland,2019,159734.5
+Ireland,2018,155868.18
+Ireland,2017,148056.83
+Ireland,2016,139471.48
+Ireland,2015,141969.64
+Israel,2025,97931.62
+Israel,2024,97282.08
+Israel,2023,98850.46
+Israel,2022,99185.35
+Israel,2021,98380.43
+Israel,2020,91419.08
+Israel,2019,92065.22
+Israel,2018,89594.43
+Israel,2017,87797.5
+Israel,2016,86092.35
+Israel,2015,84474.96
+Italy,2025,83946.15
+Italy,2024,82832.48
+Italy,2023,82883.99
+Italy,2022,82738.16
+Italy,2021,82642.11
+Italy,2020,76269.12
+Italy,2019,82140.7
+Italy,2018,82304.47
+Italy,2017,82279.12
+Italy,2016,81958.99
+Italy,2015,82021.91
+Japan,2025,69374.9
+Japan,2024,68610.51
+Japan,2023,68556.79
+Japan,2022,67814.04
+Japan,2021,67243.26
+Japan,2020,65542.85
+Japan,2019,67891.79
+Japan,2018,68853.02
+Japan,2017,69810.96
+Japan,2016,69446.02
+Japan,2015,69705.86
+Latvia,2025,37200.92
+Latvia,2024,36032.96
+Latvia,2023,35223.41
+Latvia,2022,35608.8
+Latvia,2021,35294.03
+Latvia,2020,32205.8
+Latvia,2019,32750.05
+Latvia,2018,32541.83
+Latvia,2017,31720.29
+Latvia,2016,30871.19
+Latvia,2015,30011.92
+Lithuania,2025,39171.9
+Lithuania,2024,37827.45
+Lithuania,2023,36777.08
+Lithuania,2022,37168.43
+Lithuania,2021,37320.32
+Lithuania,2020,35424.23
+Lithuania,2019,34924.41
+Lithuania,2018,33499.33
+Lithuania,2017,32667.89
+Lithuania,2016,31254.01
+Lithuania,2015,31067.24
+Luxembourg,2025,223992.24
+Luxembourg,2024,219520.37
+Luxembourg,2023,216990.56
+Luxembourg,2022,224233.2
+Luxembourg,2021,226183.94
+Luxembourg,2020,222123.77
+Luxembourg,2019,225223.24
+Luxembourg,2018,226125.78
+Luxembourg,2017,229902.76
+Luxembourg,2016,233804.68
+Luxembourg,2015,226539.47
+Mexico,2025,22685.08
+Mexico,2024,22629.36
+Mexico,2023,22620.37
+Mexico,2022,22632.35
+Mexico,2021,22650.68
+Mexico,2020,23103.14
+Mexico,2019,23414.16
+Mexico,2018,24049.24
+Mexico,2017,24068.41
+Mexico,2016,24006.01
+Mexico,2015,24014.12
+Netherlands,2025,90982.26
+Netherlands,2024,90024.9
+Netherlands,2023,90081.61
+Netherlands,2022,91781.97
+Netherlands,2021,89943.51
+Netherlands,2020,84919.38
+Netherlands,2019,88396.11
+Netherlands,2018,88313.2
+Netherlands,2017,88259.91
+Netherlands,2016,87377.76
+Netherlands,2015,86758.02
+New Zealand,2025,75521.47
+New Zealand,2024,74808.44
+New Zealand,2023,74673.05
+New Zealand,2022,75313.33
+New Zealand,2021,75060.69
+New Zealand,2020,73653.09
+New Zealand,2019,74583.72
+New Zealand,2018,74138.96
+New Zealand,2017,73405.57
+New Zealand,2016,73924.74
+New Zealand,2015,74468.78
+Norway,2025,151960.51
+Norway,2024,151281.42
+Norway,2023,150315.22
+Norway,2022,150037.46
+Norway,2021,149635.52
+Norway,2020,146379.99
+Norway,2019,148115.97
+Norway,2018,148681.04
+Norway,2017,149413.02
+Norway,2016,146138.38
+Norway,2015,144846.46
+Poland,2025,36468.51
+Poland,2024,34771.22
+Poland,2023,33615.47
+Poland,2022,34191.55
+Poland,2021,33007.45
+Poland,2020,31352.33
+Poland,2019,31922.16
+Poland,2018,30652.9
+Poland,2017,29193.93
+Poland,2016,28246.76
+Poland,2015,27914.86
+Portugal,2025,49384.93
+Portugal,2024,48177.86
+Portugal,2023,47186.35
+Portugal,2022,46527.2
+Portugal,2021,44611.38
+Portugal,2020,42278.8
+Portugal,2019,45042.57
+Portugal,2018,44333
+Portugal,2017,44156.85
+Portugal,2016,44083.24
+Portugal,2015,43776.27
+Republic of Korea,2025,63939.19
+Republic of Korea,2024,62627.15
+Republic of Korea,2023,61329.49
+Republic of Korea,2022,61308.04
+Republic of Korea,2021,61550.28
+Republic of Korea,2020,59653.48
+Republic of Korea,2019,59582.55
+Republic of Korea,2018,58889.87
+Republic of Korea,2017,57355.42
+Republic of Korea,2016,56274.56
+Republic of Korea,2015,55241.7
+Slovakia,2025,40990.73
+Slovakia,2024,39860.51
+Slovakia,2023,39005.59
+Slovakia,2022,38883.11
+Slovakia,2021,39286.78
+Slovakia,2020,38132.26
+Slovakia,2019,38621.75
+Slovakia,2018,37885.5
+Slovakia,2017,36937.25
+Slovakia,2016,36420.76
+Slovakia,2015,36708.08
+Slovenia,2025,56104.67
+Slovenia,2024,54576.79
+Slovenia,2023,53784.86
+Slovenia,2022,52714.39
+Slovenia,2021,52403.73
+Slovenia,2020,49256.73
+Slovenia,2019,51097.88
+Slovenia,2018,49548.19
+Slovenia,2017,48623.41
+Slovenia,2016,48499.11
+Slovenia,2015,46859.74
+Spain,2025,67468.6
+Spain,2024,66188.19
+Spain,2023,64778.97
+Spain,2022,63942
+Spain,2021,62213.01
+Spain,2020,60343.79
+Spain,2019,65908.31
+Spain,2018,66138.86
+Spain,2017,66163.98
+Spain,2016,66130.81
+Spain,2015,65969.22
+Sweden,2025,112880.4
+Sweden,2024,111536.99
+Sweden,2023,110245.82
+Sweden,2022,111642.59
+Sweden,2021,113253.48
+Sweden,2020,107266.78
+Sweden,2019,108066.12
+Sweden,2018,106624.75
+Sweden,2017,106281.75
+Sweden,2016,105663.36
+Sweden,2015,105355.15
+Switzerland,2025,168231.92
+Switzerland,2024,166237.78
+Switzerland,2023,164237.43
+Switzerland,2022,166538.38
+Switzerland,2021,162602.33
+Switzerland,2020,153928.54
+Switzerland,2019,156932.04
+Switzerland,2018,156140.53
+Switzerland,2017,153037.27
+Switzerland,2016,152221.33
+Switzerland,2015,151539.79
+Türkiye,2025,38868.39
+Türkiye,2024,38274.34
+Türkiye,2023,38099.94
+Türkiye,2022,37117.74
+Türkiye,2021,37264.08
+Türkiye,2020,35649.01
+Türkiye,2019,33192.2
+Türkiye,2018,32161.36
+Türkiye,2017,32019.4
+Türkiye,2016,30879.14
+Türkiye,2015,30833.05
+United Kingdom of Great Britain and Northern Ireland,2025,97127.4
+United Kingdom of Great Britain and Northern Ireland,2024,96587.66
+United Kingdom of Great Britain and Northern Ireland,2023,95973.29
+United Kingdom of Great Britain and Northern Ireland,2022,96346.85
+United Kingdom of Great Britain and Northern Ireland,2021,93829.97
+United Kingdom of Great Britain and Northern Ireland,2020,85739.38
+United Kingdom of Great Britain and Northern Ireland,2019,95120.08
+United Kingdom of Great Britain and Northern Ireland,2018,94607.92
+United Kingdom of Great Britain and Northern Ireland,2017,94484.67
+United Kingdom of Great Britain and Northern Ireland,2016,93009.01
+United Kingdom of Great Britain and Northern Ireland,2015,92752.5
+United States of America,2025,135490.37
+United States of America,2024,133113.95
+United States of America,2023,129771.65
+United States of America,2022,129542.6
+United States of America,2021,128535.37
+United States of America,2020,125598
+United States of America,2019,120976.75
+United States of America,2018,120060.74
+United States of America,2017,118471.7
+United States of America,2016,118259.84
+United States of America,2015,117704.31
